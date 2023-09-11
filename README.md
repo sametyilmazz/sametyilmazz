@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametyilmazz&label=Profile%20views&color=0e75b6&style=flat" alt="sametyilmazz" /> </p>
 
-- 🔭 I’m currently working on **Miuul Data Engineer Bootcamp**
+- 🔭 I’m currently working on **ML Modelling**
 
 - 🌱 I’m currently learning **Dockers, Kubernates, Spark**
 
